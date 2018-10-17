@@ -1,0 +1,89 @@
+<style>
+.off
+{
+    background: red;
+    position: absolute;
+    color: white;
+    font-weight: 800;
+    padding: 1px;
+    margin: 1px;
+    border: 1px solid red;
+	border-top-left-radius:3px;
+    font-size: 11px;	
+	}
+.maindiv{
+ float:left;
+ padding:10px;
+ 
+ cursor:pointer;
+ border:1px solid #eee;
+ margin-bottom:10px;
+}
+.maindiv:hover
+{
+	background:white:
+	color:black;
+	
+	
+}
+
+
+.off
+{
+    background: red;
+    position: absolute;
+    color: white;
+    font-weight: 800;
+    padding: 1px;
+    margin: 1px;
+    border: 1px solid red;
+  border-top-left-radius:3px;
+    font-size: 11px;  
+  }
+.maindiv{
+ float:left;
+ padding:10px;
+ 
+ cursor:pointer;
+ border:1px solid #eee;
+ margin-bottom:10px;
+}
+.maindiv:hover
+{
+  background:white;
+  color:black;
+  
+  
+}
+.cont
+{
+      width: 100%;
+    }
+    .under
+    {
+
+color:white;
+    }
+#footer {
+ 
+  /*width: 100%;*/
+  /* Set the fixed height of the footer here */
+  height: 166px;
+  background: 
+  /* color overlay */ 
+    #222;
+    color:white;
+   
+}
+
+
+.header-input
+{
+border-radius:1px;
+margin-top:20px; 
+margin-bottom:20px;
+ padding:10px; 
+border:1px solid #ccc;
+ background: black;
+}
+</style>
